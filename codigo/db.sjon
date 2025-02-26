@@ -1,0 +1,719 @@
+{
+    "albuns": [
+        {
+            "id": 1,
+            "Titulo": "Goias",
+            "Descrição": "Cidade bela de Goias",
+            "localizacao": [
+                -49.317550982021274,
+                -16.334529438991055
+            ],
+            "Data": "19/07/2019",
+            "url": "https://www.viajenaviagem.com/wp-content/uploads/2012/12/goias12.jpg.webp",
+            "localizacao_descrita": "Goiania, Goias, Brasil"
+        },
+        {
+            "id": 2,
+            "Titulo": "Mato-Grosso",
+            "Descrição": "Cidade bela de Mato grosso",
+            "localizacao": [
+                -55.93945967097742,
+                -15.616629852546957
+            ],
+            "Data": "08/09/2022",
+            "url": "https://www.matupa.mt.gov.br/phpThumb/phpThumb.php?src=fotos_bancoimagens/3217.jpg&w=772&h=600&zc=T",
+            "localizacao_descrita": "Cuiabá, Mato grosso, Brasil"
+        },
+        {
+            "id": 3,
+            "Titulo": "Pernambuco",
+            "Descrição": "Cidade bela de Pernambuco",
+            "localizacao": [
+                -38.656924092032476,
+                -8.337176653831502
+            ],
+            "Data": "12/07/2016",
+            "url": "https://www.gov.br/turismo/pt-br/centrais-de-conteudo/08-03-2016-recife-jpg",
+            "localizacao_descrita": "Recife, Pernambuco, Brasil"
+        },
+        {
+            "id": 4,
+            "Titulo": "Rio de Janeiro",
+            "Descrição": "Cidade bela do Rio De Janeiro",
+            "localizacao": [
+                -43.37907398123099,
+                -22.99115114937893
+            ],
+            "Data": "22/12/2015",
+            "url": "https://magazine.zarpo.com.br/wp-content/uploads/2016/09/capa-mag_pontos-turisticos-rio-de-janeiro-1-770x515.jpg",
+            "localizacao_descrita": "Copacabana, Rio de Janeiro, Brasil"
+        },
+        {
+            "id": 5,
+            "Titulo": "Porto Alegre",
+            "Descrição": "Cidade bela de Porto Alegre",
+            "localizacao": [
+                -51.188192972994614,
+                -30.067688640757563
+            ],
+            "Data": "01/06/2012 ",
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Vistas_de_Porto_Alegre_%28cropped%29.jpg/1920px-Vistas_de_Porto_Alegre_%28cropped%29.jpg",
+            "localizacao_descrita": "Porto Alegre, Rio grande do sul, Brasil"
+        },
+        {
+            "id": 6,
+            "Titulo": "Amazonas",
+            "Descrição": "Cidade bela de Amazonas",
+            "localizacao": [
+                -60.00935762826613,
+                -3.054380344738261
+            ],
+            "Data": "19/10/2011 ",
+            "url": "https://oeco.org.br/wp-content/uploads/oeco-migration//images/stories/out2011/Curaca.jpg",
+            "localizacao_descrita": "Manaus, Amazonas, Brasil"
+        },
+        {
+            "id": 7,
+            "Titulo": "Bahia",
+            "Descrição": "Cidade bela de Bahia",
+            "localizacao": [
+                -38.47194596978149,
+                -12.942891470115502
+            ],
+            "Data": "31/07/2012",
+            "url": "https://lh3.googleusercontent.com/blogger_img_proxy/ALY8t1tQcI0382gSSkCtkXbsj6P2MAif08CtgcoMG6rTbVqUWnUqZ6qLb3SVkN_Opqrd7g9Z8ci5yZKQCleV637b0G87ypnxstkn7hWwtu0wuqmAkjw2Xdz4mR1WnXAGyA=s0-d",
+            "localizacao_descrita": "Salvador, Bahia, Brasil"
+        },
+        {
+            "id": 8,
+            "Titulo": "Minas-gerais",
+            "Descrição": "Cidade bela de Minas",
+            "localizacao": [
+                -43.94823449575249,
+                -19.926100190324394
+            ],
+            "Data": "31/07/2012 ",
+            "url": "https://inovacaosebraeminas.com.br/wp-content/uploads/2017/10/conheca-4-cidades-inovadoras-de-minas-para-aprender-com-elas-1024x683.jpg",
+            "localizacao_descrita": "Belo Horizonte, Minas Gerais, Brasil"
+        }
+    ],
+    "fotos": [
+        {
+            "id": 1,
+            "url": "",
+            "descricao": "A beleza da cachoeira Corumbá de Goiás é tamanha que ela é capa da edição de dezembro de 2015 de uma das maiores revistas de viagens do mundo",
+            "album": 1
+        },
+        {
+            "id": 2,
+            "url": "https://www.carpemundi.com.br/wp-content/uploads/2021/06/pocos-salto-do-itiquira.jpg",
+            "descricao": "Uma das atrações mais procuradas de Formosa, o Salto do Itiquira é o maior salto de fácil acesso do Brasil, com 168 metros de queda livre ",
+            "album": 1
+        },
+        {
+            "id": 3,
+            "url": "https://www.guiaturisticodegoias.com.br/galery/buraco-das-araras-106.jpg",
+            "descricao": "Segunda maior dolina de colapso do centro-oeste (depressão em formato circular formado pela dissolução das rochas",
+            "album": 1
+        },
+        {
+            "id": 4,
+            "url": "",
+            "descricao": "O pôr do sol visto das margens do rio Araguaia é uma das imagens mais belas captadas por turistas. ",
+            "album": 1
+        },
+        {
+            "id": 5,
+            "url": "https://guiasoumais.com.br/wp-content/uploads/2023/06/1686360461_maxresdefault-1.jpg",
+            "descricao": "Cachoeiras, chapadas, rios e muitas belezas naturais fazem do Parque Nacional das Emas um destino incrível. ",
+            "album": 1
+        },
+        {
+            "id": 6,
+            "url": "https://img.oastatic.com/img2/57266925/max/vale-da-lua-na-chapada-dos-veadeiros-goias-.jpg",
+            "descricao": "Localizado no município de Alto Paraíso, as formações rochosas do Vale da Lua já se transformaram em um cartão-postal de Goiás",
+            "album": 1
+        },
+        {
+            "id": 7,
+            "url": "https://imgmd.net/images/v1/guia/1614235/cachoeiras-almecegas-i-e-ii.jpg",
+            "descricao": "Com 45 metros de altura, a água cai forma de véu de noiva e termina em um poço de água azul, ideal para banho.",
+            "album": 1
+        },
+        {
+            "id": 8,
+            "url": "https://imgmd.net/images/v1/guia/1613052/saltos-do-rio-preto-parque-nacional-da-chapada-dos-veadeiros.jpg",
+            "descricao": "Depois de um percurso de 9km, é possível ter a visão de uma incrível cachoeira de 120 metros de altura, a impressioante Salto do Rio Preto I.",
+            "album": 1
+        },
+        {
+            "id": 9,
+            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAevXOyODwRsyuOCBT0jGgwlTSFXy9Lh6yzg&usqp=CAU",
+            "descricao": "Sua queda d'água forma um poço de água cristalina, com águas azuis e esverdeadas, ótimo para banho e mergulho.",
+            "album": 1
+        },
+        {
+            "id": 10,
+            "url": "https://diariodeaparecida.com.br/wp-content/uploads/2023/06/caverna-angelica-parque-estadual-terra-ronca.jpg",
+            "descricao": "O Parque é um dos maiores complexos espeleológicos da América Latina,",
+            "album": 1
+        },
+        {
+            "id": 11,
+            "url": "https://f3m4u8n4.rocketcdn.me/wp-content/uploads/2016/09/caldas-novas-ou-rio-quente.jpg",
+            "descricao": " possui muitos clubes, hotéis e parques aquáticos com deliciosas piscinas termais que encantam os visitantes.",
+            "album": 1
+        },
+        {
+            "id": 12,
+            "url": "https://blog.123milhas.com/wp-content/uploads/2022/04/pontos-turisticos-goias-bancos-cristalina-mergulho-aguas-azuis-goiania-conexao123-768x655.jpg",
+            "descricao": "Famosa por receber muitos turistas à procura de pedras preciosas e artesanatos minerais, a cidade é mais um local abençoado pelas belas cachoeiras",
+            "album": 1
+        },
+        {
+            "id": 1,
+            "url": "https://www.olharconceito.com.br/imgsite/noticias/cuiaba-noturna.jpg",
+            "descricao": "A capital do Mato Grosso, Cuiabá, vai agradar aos turistas que gostam de atividades culturais, apreciar arquiteturas coloniais e degustar boa gastronomia.",
+            "album": 2
+        },
+        {
+            "id": 2,
+            "url": "https://www.melhoresdestinos.com.br/wp-content/uploads/2023/07/o-que-fazer-chapada-dos-guimaraes-dicas-capa.jpg",
+            "descricao": "A Chapada é o lugar perfeito para contemplar a imensidão da natureza e relaxar. Uma das atrações mais famosas é a Cachoeira Véu de Noiva.",
+            "album": 2
+        },
+        {
+            "id": 3,
+            "url": "https://www.civitatis.com/f/brasil/cuiaba/excursion-aquario-encantado-nobres-589x392.jpg",
+            "descricao": "Com uma beleza natural surpreendente, Nobres é um dos pontos turísticos do Mato Grosso preferidos pelos amantes de turismo de aventura.",
+            "album": 2
+        },
+        {
+            "id": 4,
+            "url": "https://www.bonitoway.com.br/public/posts/bw_melhor_cidade_para_conhecer_o_pantanal_sul_e.png?1652901200",
+            "descricao": "O Pantanal é perfeito para a observação de animais, como jacarés, garças, gaviões, tamanduás e até onças-pintadas. ",
+            "album": 2
+        },
+        {
+            "id": 5,
+            "url": "https://trilhandomontanhas.com/arquivos/2017-08/cachoeira-da-fumaca-jaciara-mt-por-camila-morais-mateus-maior.jpg",
+            "descricao": "As Thermas Cachoeira da Fumaça e sua queda de 30 metros de altura",
+            "album": 2
+        },
+        {
+            "id": 6,
+            "url": "https://www.rdnews.com.br//storage/webdisco/2017/02/27/500x325/064b674ea2dc79403e3c55e01aac8960.jpg",
+            "descricao": "além de areia branquinha e fofa, esse é um dos pontos turísticos do Mato Grosso que não podem ficar de fora de seu roteiro.",
+            "album": 2
+        },
+        {
+            "id": 7,
+            "url": "https://classic.exame.com/wp-content/uploads/2021/03/FOTO6_PantanalMT.jpg?quality=70&strip=info&w=1024",
+            "descricao": "A imensidão da Amazônia não se restringe ao estado do Amazonas, como muita gente pensa. O Mato Grosso também sedia parte desse tesouro mundial.",
+            "album": 2
+        },
+        {
+            "id": 8,
+            "url": "https://www.caceres.mt.gov.br/fotos_bancoimagens/2508.jpg",
+            "descricao": "A fauna rica do município propicia o turismo ecológico, mas também tem passeios históricos em sítios arqueológicos e no centro urbano.",
+            "album": 2
+        },
+        {
+            "id": 9,
+            "url": "https://www.gov.br/sudeco/pt-br/municipios/mato-grosso/marco/vila-bela-da-santissima-trindade-mt/ruinas2.jpg/@@images/373f9a9e-a431-46c8-b8e4-814647d35c92.jpeg",
+            "descricao": "Para quem gosta de se aventurar, essa é a pedida certa. Há muitas trilhas e partes quase inexploradas, mas que escondem belezas naturais únicas.",
+            "album": 2
+        },
+        {
+            "id": 10,
+            "url": "https://ogimg.infoglobo.com.br/in/24285397-e78-65d/FT1500A/690/87314331_BVSerra-do-Roncador-Mato-GrossoBico-da-Serra-na-legenda.Foto-de-divulgacao.jpg",
+            "descricao": "A serra recebeu o nome “roncador” devido ao som produzido pelo vento ao passar pelas rochas à noite. ",
+            "album": 2
+        },
+        {
+            "id": 11,
+            "url": "",
+            "descricao": "Se você procura por um local incrível para praticar mergulho, Primavera do Leste é o destino certo para você!",
+            "album": 2
+        },
+        {
+            "id": 12,
+            "url": "https://ultramacho.com.br/wp-content/uploads/2022/05/104.jpg",
+            "descricao": "Um terço do território de Campo Novo do Parecis é composto por terras indígenas.",
+            "album": 2
+        },
+        {
+            "id": 1,
+            "url": "https://www.melhoresdestinos.com.br/wp-content/uploads/2020/06/dicas-praia-dos-carneiros-capa2019-01-820x430.jpg",
+            "descricao": "Mar azul caribe, areia branquinha, uma igreja pitoresca do século XVIII e coqueiros a perder de vista. Bem-vindo à Praia dos Carneiros, eleita um dos lugares mais bonitos de Pernambuco e do Brasil.",
+            "album": 3
+        },
+        {
+            "id": 2,
+            "url": "https://passeiosemalagoas.com.br/wp-content/uploads/2021/10/passeios-em-alagoas-porto-de-galinhas-4-1024x512-1.jpg.jpg",
+            "descricao": "região é maravilhosa e acolhe praias paradisíacas para todos os gostos. ",
+            "album": 3
+        },
+        {
+            "id": 3,
+            "url": "https://dicasmaceioemaragogi.com.br/wp-content/uploads/2023/01/praia-de-muro-alto-ipojuca.jpg",
+            "descricao": "no município de Ipojuca, tem mar cristalino, piscinas naturais e paisagem espetacular.",
+            "album": 3
+        },
+        {
+            "id": 4,
+            "url": "https://www.viagenscinematograficas.com.br/wp-content/uploads/2020/12/Maracaipe-Porto-de-Galinhas-Pousada-Capa.jpg",
+            "descricao": "A combinação é irresistível: o encontro do rio Maracaípe com o mar, boas ondas para surfar, piscinas naturais e muito sossego.",
+            "album": 3
+        },
+        {
+            "id": 5,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2021/03/praia-de-serrambi-1.jpg",
+            "descricao": "Praticamente deserta o ano todo, Serrambi é um dos locais tranquilos para descansar, relaxar e fugir da aglomeração.",
+            "album": 3
+        },
+        {
+            "id": 6,
+            "url": "https://imagens.ne10.uol.com.br/veiculos/_midias/jpg/2021/04/20/806x444/1_0-17394697.jpg",
+            "descricao": "é composta por enseadas de águas calmas e cristalinas, ideais para mergulho, além de mirantes incríveis e trilhas",
+            "album": 3
+        },
+        {
+            "id": 7,
+            "url": "https://primavera.pe.leg.br/wp-content/uploads/2021/07/cachoeira-1.jpg",
+            "descricao": "A linda Cachoeira do Urubu é um dos principais atrativos turísticos do município de Primavera",
+            "album": 3
+        },
+        {
+            "id": 8,
+            "url": "https://q5s9m2q9.rocketcdn.me/wp-content/uploads/praia-gaibu-cabo-de-santo-agostinho.jpg",
+            "descricao": "considerada uma das praias mais lindas de Pernambuco, a enseada de Calhetas é um dos principais pontos turísticos.",
+            "album": 3
+        },
+        {
+            "id": 9,
+            "url": "https://www.aluguefoco.com.br/uploads/2021/08/18/611d1f3624beb.bairro-recife.small.png",
+            "descricao": "Uma das maiores capitais do Brasil, Recife vai além das praias e do Carnaval.",
+            "album": 3
+        },
+        {
+            "id": 10,
+            "url": "https://s3-sa-east-1.amazonaws.com/img.guiadasartes.com.br/eve/654-instituto-ricardo-brennand-/oPsAzbNU.jpg",
+            "descricao": "Trata-se de um dos museus mais importantes da cidade de Recife.",
+            "album": 3
+        },
+        {
+            "id": 11,
+            "url": "https://estrangeira.com.br/wp-content/uploads/2019/08/oficina-brennand-recife-5.jpg",
+            "descricao": "é o passeio ideal para quem aprecia arte, objetos em cerâmica e arquitetura.",
+            "album": 3
+        },
+        {
+            "id": 12,
+            "url": "https://revistaazul.voeazul.com.br/wp-content/uploads/2023/02/post_thumbnail-c4fc440279cb809f35f5b70db0fa090d.jpeg",
+            "descricao": "Um dos locais históricos mais importantes do Brasil fica em Pernambuco.",
+            "album": 3
+        },
+        {
+            "id": 1,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/cristo-rio-de-janeiro-730x486.jpg",
+            "descricao": "o Cristo Redendor é com certeza o ponto turístico mais amado e procurado do Rio de Janeiro.",
+            "album": 4
+        },
+        {
+            "id": 2,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/pao-de-acucar-rio-de-janeiro-730x486.jpg",
+            "descricao": "O Pão de Açúcar  que fica a 400 metros acima do nível do mar  pode ser considerado o segundo lugar mais procurado pelos turistas na cidade. ",
+            "album": 4
+        },
+        {
+            "id": 3,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/santa-teresa-rio-de-janeiro-730x486.jpg",
+            "descricao": "Santa Teresa é um dos bairros mais queridinhos dos cariocas, perfeito para passar uma deliciosa tarde na cidade.",
+            "album": 4
+        },
+        {
+            "id": 4,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/estadio-maracana-rio-de-janeiro-730x486.jpg",
+            "descricao": "Conhecer o Estádio do Maracanã é praticamente um passeio imperdível na cidade, principalmente se você é fã de futebol.",
+            "album": 4
+        },
+        {
+            "id": 5,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/floresta-tijuca-rio-de-janeiro-730x486.jpg",
+            "descricao": "a Floresta da Tijuca é uma das maiores em área urbana do mundo e um ótimo programa para quem busca atividades ao ar livre",
+            "album": 4
+        },
+        {
+            "id": 6,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/teatro-municipal-rio-de-janeiro-730x486.jpg",
+            "descricao": "uma das maiores casas de espetáculos do Brasil.",
+            "album": 4
+        },
+        {
+            "id": 7,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/lagoa-rodrigo-de-freitas-730x486.jpg",
+            "descricao": "é um dos locais preferidos dos cariocas no dia a dia",
+            "album": 4
+        },
+        {
+            "id": 8,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/pedra-da-gavea-730x486.jpg",
+            "descricao": "Entre as atividades mais comuns no famoso bloco de pedra estão trilhas, escaladas, asa-delta e parapente",
+            "album": 4
+        },
+        {
+            "id": 9,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/forte-de-copacabana-rj-730x486.jpg",
+            "descricao": "O local abriga também um jardim sensorial, criado especialmente para pessoas portadoras de deficiência visual,",
+            "album": 4
+        },
+        {
+            "id": 10,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/forte-de-copacabana-rj-730x486.jpg",
+            "descricao": "Considerado uma área militar, o Forte de Copacabana foi criado no começo do século XX para impedir que navios inimigos invadissem a entrada da Baía de Guanabara",
+            "album": 4
+        },
+        {
+            "id": 11,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/museu-historico-nacional-730x486.jpg",
+            "descricao": "Considerado um dos mais importantes do País, o local conta com mais de 250 mil peças que contam a história do Brasil",
+            "album": 4
+        },
+        {
+            "id": 12,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2016/08/mirante-dona-marta-rj-730x486.jpg",
+            "descricao": "o Mirante Dona Marta também não deixa a desejar, pois oferece um visual panorâmico em seus mais de 360 metros de altura",
+            "album": 4
+        },
+        {
+            "id": 1,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-2.jpg",
+            "descricao": "Esse belo prédio é um local central para a cultura gaúcha e de grande importância histórica, além de conter diversos estabelecimentos, como restaurantes e cafés. ",
+            "album": 5
+        },
+        {
+            "id": 2,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-3.jpg",
+            "descricao": "o Parque Farroupilha é uma das melhores opções para curtir a cidade ao ar livre.",
+            "album": 5
+        },
+        {
+            "id": 3,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-5.jpg",
+            "descricao": "O Museu de Ciência e Tecnologia da PUCRS é um ponto turístico de Porto Alegre imperdível.",
+            "album": 5
+        },
+        {
+            "id": 4,
+            "url": "https://www.passagenspromo.com.br/blog/wp-content/uploads/2019/02/o-que-fazer-em-porto-alegre-lugares-turisticos-POA.jpg",
+            "descricao": "naugurado em 1928, no prédio funcionava uma Usina de Geração de Energia movida a carvão mineral.",
+            "album": 5
+        },
+        {
+            "id": 5,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-6.jpg",
+            "descricao": " Ele tem uma réplica de um moinho de vento que atrai muitos turistas, e uma pequeno lago cheio de animais. ",
+            "album": 5
+        },
+        {
+            "id": 6,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/farol-itapua-rs-1.png",
+            "descricao": "o Farol é uma escapada do ritmo mais acelerado de Porto Alegre. ",
+            "album": 5
+        },
+        {
+            "id": 7,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-11.jpg",
+            "descricao": "Um dos principais pontos turísticos de Porto Alegre é seu centro histórico.",
+            "album": 5
+        },
+        {
+            "id": 8,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-15.jpg",
+            "descricao": "A Catedral Metropolitana é uma bela construção do início do século XX que concentra lindos exemplares de arte sacra. ",
+            "album": 5
+        },
+        {
+            "id": 9,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-17.jpg",
+            "descricao": "Para quem gosta de futebol, visitar a Arena do Grêmio é imperdível. ",
+            "album": 5
+        },
+        {
+            "id": 10,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-tur%C3%ADsitcos-de-porto-alegre-22.png",
+            "descricao": "Considerada um patrimônio nacional, a Igreja Nossa Senhora das Dores tem mais de 200 anos e ajuda a contar a história de Porto Alegre.",
+            "album": 5
+        },
+        {
+            "id": 11,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-23.jpg",
+            "descricao": " o Planetário José Baptista Pereira precisa estar em seu roteiro de viagem. ",
+            "album": 5
+        },
+        {
+            "id": 12,
+            "url": "https://www.viajali.com.br/wp-content/uploads/2020/02/pontos-turisitcos-de-porto-alegre-25.jpg",
+            "descricao": "No centro histórico de Porto Alegre fica o Farol Santander, um espaço reservado para cultura, arte e tecnologia.",
+            "album": 5
+        },
+        {
+            "id": 1,
+            "url": "https://desviantes.blob.core.windows.net/desviantes/media/uploads/ec62887c742834db386c89e07eef8fc4.jpg",
+            "descricao": "Esse espetacular parque foi criado com o intuito de proteger e preservar um dos maiores arquipélagos fluviais do mundo",
+            "album": 6
+        },
+        {
+            "id": 2,
+            "url": "https://desviantes.blob.core.windows.net/desviantes/media/uploads/6178ca3587747f4576a04241f5ea51b7.jpg",
+            "descricao": "uma biodiversidade extravagante que envolve uma quantidade surpreendente de árvores de grande porte e de inúmeras espécies de aves, e muitos outros encantos da natureza.",
+            "album": 6
+        },
+        {
+            "id": 3,
+            "url": "https://desviantes.blob.core.windows.net/desviantes/media/uploads/787841bb4f7f000003ecd5f367bfebfa.jpg",
+            "descricao": "esses hotéis são excelentes opções de hospedagens, pois lhe permite estar muito próximo de toda a natureza e exuberância da Amazônia",
+            "album": 6
+        },
+        {
+            "id": 4,
+            "url": "https://desviantes.blob.core.windows.net/desviantes/media/uploads/370ff16511a68a4501fc5bd61eac9a50.jpg",
+            "descricao": "Localizadas no Parque Nacional de Anavilhanas, são dois conjuntos de imensos blocos de rochas de arenito que formam incríveis salões de pedra ",
+            "album": 6
+        },
+        {
+            "id": 5,
+            "url": "https://blog.rbarcos.com.br/wp-content/uploads/2020/09/Anavilhanas-no-Amazonas-2048x1375.jpg",
+            "descricao": "No Parque Nacional de Anavilhanas existe uma variedade de espécies aquáticas que intercalam entre as ilhas, como o boto vermelho, o peixe boi, a ariranha e a lontra.",
+            "album": 6
+        },
+        {
+            "id": 6,
+            "url": "https://blog.rbarcos.com.br/wp-content/uploads/2020/10/Cachoeira-do-Santuario.jpg",
+            "descricao": "O Complexo Turístico do Santuário possui 100 hectares e está situado em uma Reserva Particular de Patrimônio Natural ",
+            "album": 6
+        },
+        {
+            "id": 7,
+            "url": "https://blog.rbarcos.com.br/wp-content/uploads/2020/09/Presidente-Figueiredo.jpg",
+            "descricao": "A queda é muito bonita e há pedras para apoio, nas quais você consegue ancorar para sentir a força da água.",
+            "album": 6
+        },
+        {
+            "id": 8,
+            "url": "https://www.segurospromo.com.br/blog/wp-content/uploads/2021/12/Turismo-Amazonia-encontro-das-aguas.jpg",
+            "descricao": "ma das estrelas no turismo Amazônia é o encontro das águas dos rios Negro e Solimões, que correm lado a lado",
+            "album": 6
+        },
+        {
+            "id": 9,
+            "url": "https://www.segurospromo.com.br/blog/wp-content/uploads/2021/12/Turismo-Amazonia-anavilhanas.jpg",
+            "descricao": "Um dos pontos turísticos da Amazônia que não podem ficar de fora do seu roteiro é o Arquipélago de Anavilhanas",
+            "album": 6
+        },
+        {
+            "id": 10,
+            "url": "https://blog.rbarcos.com.br/wp-content/uploads/2020/03/Museu-do-Seringal.jpg",
+            "descricao": "e simula um típico seringal do século XIX, do auge do ciclo da borracha.",
+            "album": 6
+        },
+        {
+            "id": 11,
+            "url": "https://auroraaventura.com.br/wp-content/uploads/2021/07/presidente-figueiredo-capa.jpg",
+            "descricao": "Durante sua estadia em Manaus, aproveite para conhecer Presidente Figueiredo, na região metropolitana, também conhecida como a terra das cachoeiras amazônicas!",
+            "album": 6
+        },
+        {
+            "id": 12,
+            "url": "https://dbui4lb3qzbcx.cloudfront.net/imagens/772202a599c343f9c470434d54ab0913.jpeg",
+            "descricao": "como abriga um bom aeroporto que recebe voos de várias cidades brasileiras, Belém, no Pará, é uma das principais portas de entrada do turismo Amazônia.",
+            "album": 6
+        },
+        {
+            "id": 1,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-corumbau-1024x594.jpg",
+            "descricao": "Você vai se deparar com coqueiros, rios e mangues. No mar azul turquesa",
+            "album": 7
+        },
+        {
+            "id": 2,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-trancoso-1024x640.jpg",
+            "descricao": "Vale a pena conhecer a praia dos Nativos, onde quiosques convivem harmoniosamente",
+            "album": 7
+        },
+        {
+            "id": 3,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-taipus-de-fora.jpg",
+            "descricao": "Dentro da Península de Maraú, as piscinas de Taipus de Fora são imensas e carregam consigo muitas espécies marinhas,",
+            "album": 7
+        },
+        {
+            "id": 4,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-chapada-diamantina-1024x713.jpg",
+            "descricao": "Um dos lugares mais fabulosos que você precisa conhecer na Bahia",
+            "album": 7
+        },
+        {
+            "id": 5,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-abrolhos-1024x768.jpg",
+            "descricao": "Mais um daqueles lugares incríveis que você precisa visitar na Bahia!",
+            "album": 7
+        },
+        {
+            "id": 6,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-santa-cruz-cabralia-1024x528.jpg",
+            "descricao": "Parte da chamada ‘Costa do Descobrimento‘, a cidade ao sul da Bahia está a 20 km de Porto Seguro ",
+            "album": 7
+        },
+        {
+            "id": 7,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-trancoso-1-1024x640.jpg",
+            "descricao": "Cenário de Lua de Mel de muitos casais, Arraial d’Ajuda tem praias que lembram o Caribe. Antiga vila de pescadores",
+            "album": 7
+        },
+        {
+            "id": 8,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-Cumuruxatiba-1024x682.jpg",
+            "descricao": "Cumuruxatiba, o balneário de nome tupi que significa “grande variação da maré”, é uma rústica vila de pescadores",
+            "album": 7
+        },
+        {
+            "id": 9,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-itacare-1024x682.jpg",
+            "descricao": "Parte da Costa do Cacau, ao sul de Salvador, Itacaré reúne praias e cachoeiras de tirar o fôlego. Por estar próxima à Mata Atlântica",
+            "album": 7
+        },
+        {
+            "id": 10,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-boipeba-1024x682.jpg",
+            "descricao": "Em virtude do patrimônio natural, a região é considerada pela UNESCO ",
+            "album": 7
+        },
+        {
+            "id": 11,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-esplanada-1024x576.jpg",
+            "descricao": "Ela é rodeada de casinhas antigas, edifícios coloniais e ruas sem muita movimentação.",
+            "album": 7
+        },
+        {
+            "id": 12,
+            "url": "https://quantocustaviajar.com/blog/wp-content/uploads/2016/03/lugares-para-conhecer-na-bahia-morro-de-sao-paulo.jpg",
+            "descricao": "Localizada na Ilha de Tinharé, no município de Cairu, Morro de São Paulo é um dos lugares",
+            "album": 7
+        },
+        {
+            "id": 1,
+            "url": "https://i.uai.com.br/Eyf9gChDVErE5qCCc33ii64vUzI=/790x/smart/imgsapp2.uai.com.br/app/noticia_133890394703/2017/08/09/211202/20170809120905397076u.jpg",
+            "descricao": "Serra do Cipó é um distrito do município brasileiro de Santana do Riacho",
+            "album": 8
+        },
+        {
+            "id": 2,
+            "url": "https://www.serradacanastra.com.br/wp-content/uploads/2023/03/Canastra.jpg",
+            "descricao": " região ecoturística da Serra da Canastra tem mais de 200 mil hectares e abrange 6 municípios",
+            "album": 8
+        },
+        {
+            "id": 3,
+            "url": "https://a.travel-assets.com/findyours-php/viewfinder/images/res40/262000/262545-Belo-Horizonte-And-Vicinity.jpg",
+            "descricao": "Atualmente, o maior templo católico na capital é a Boa Viagem,",
+            "album": 8
+        },
+        {
+            "id": 4,
+            "url": "https://valoreimoveis.com.br/wp-content/uploads/2016/10/44185-4-razoes-para-morar-no-bairro-serra.jpg",
+            "descricao": "A paisagem de Belo Horizonte é caracterizada ao sul pelo perfil da Serra do Curral,",
+            "album": 8
+        },
+        {
+            "id": 5,
+            "url": "",
+            "descricao": "A meio caminho entre as serranias do norte de Huelva, Sevilha e Córdoba ",
+            "album": 8
+        },
+        {
+            "id": 6,
+            "url": "https://lirp.cdn-website.com/b4aad4f5/dms3rep/multi/opt/lago-de-furnas-capitolio-minas-gerais-1920w.jpg",
+            "descricao": "Capitólio é um município brasileiro no estado de Minas Gerais",
+            "album": 8
+        },
+        {
+            "id": 7,
+            "url": "https://img.freepik.com/fotos-premium/uma-imagem-de-um-belo-horizonte-de-montanha-natureza-fabulosa-com-colinas-rochosas-ceu-azul-espacoso-com-algumas-nuvens-e-um-riacho-fluindo-a-distancia_161422-4815.jpg",
+            "descricao": "A paisagem de Belo Horizonte é caracterizada ao sul pelo perfil da Serra do Curral",
+            "album": 8
+        },
+        {
+            "id": 8,
+            "descricao": "Ouro Preto é uma cidade colonial na Serra do Espinhaço, na zona leste do Brasil.",
+            "album": 8
+        },
+        {
+            "id": 9,
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Igreja_de_S%C3%A3o_Francisco_de_Assis_-_Lagoa_da_Pampulha.jpg/1200px-Igreja_de_S%C3%A3o_Francisco_de_Assis_-_Lagoa_da_Pampulha.jpg",
+            "descricao": " As ações viabilizadas pela Prefeitura de Belo Horizonte ",
+            "album": 8
+        },
+        {
+            "id": 10,
+            "url": "https://www.falandodeviagem.com.br/imagens21/MonteVerdeMG.jpg",
+            "descricao": "Belo Horizonte está distante 483 km de Monte Verde, uma viagem de seis horas e meia.",
+            "album": 8
+        },
+        {
+            "id": 11,
+            "url": "",
+            "descricao": "Praça 7 é ....",
+            "album": 8
+        },
+        {
+            "id": 12,
+            "url": "https://www.conjur.com.br/img/b/serra-curral-belo-horizonte.jpeg",
+            "descricao": "possui inestimável valor ambiental, cultural, arqueológico, hidrológico, paisagístico e social",
+            "album": 8
+        }
+    ],
+    "destaques": [
+        {
+            "id": 1,
+            "album": 1,
+            "descrição": "Goiás é um dos estados brasileiros que integram a região Centro-Oeste do país. Faz divisa com o Distrito Federal e outras cinco unidades federativas."
+        },
+        {
+            "id": 2,
+            "album": 2,
+            "descrição": "O Mato Grosso é o maior produtor nacional de algodão Dos 35 maiores produtores de algodão do país, 20 municípios são mato-grossenses."
+        },
+        {
+            "id": 3,
+            "album": 3,
+            "descrição": "é marcada pela diferença entre o litoral, com vegetação tropical e clima úmido, e o interior, com vegetação xerófila e clima seco."
+        },
+        {
+            "id": 4,
+            "album": 4,
+            "descrição": "O Rio de Janeiro é um estado brasileiro situado na região Sudeste do país. É a quarta menor unidade da federação em área, mas a terceira mais populosa,"
+        },
+        {
+            "id": 5,
+            "album": 5,
+            "descrição": "Porto Alegre é um município brasileiro e capital do estado do Rio Grande do Sul, integrante da região Sul do país."
+        },
+        {
+            "id": 6,
+            "album": 6,
+            "descrição": "O Amazonas é um estado brasileiro da região Norte, com capital em Manaus. É a maior unidade da federação em extensão territorial."
+        },
+        {
+            "id": 7,
+            "album": 7,
+            "descrição": "A Bahia é uma unidade federativa brasileira localizada na Região Nordeste."
+        },
+        {
+            "id": 8,
+            "album": 8,
+            "descrição": "Minas Gerais, possuindo uma área de 588.384 km2, ocupa 6,9% do território brasileiro"
+        }
+    ]
+}
