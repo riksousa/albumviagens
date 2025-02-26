@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang ="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-compatible" content="IE=edge">
+  <meta name="viewport" content ="width=device-width, initial-scale=1.0">
+
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css"
+  rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+
+<script src='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.js'></script>
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='sty' />
+<link href='https://api.mapbox.com/mapbox-gl-js/v2.9.1/mapbox-gl.css' rel='stylesheet' />
+
+
+
+   <title>Album</title>
+
+</head>
+<body>
+    <header>
+        <nav>
+
+            <nav class="navbar navbar-expand-lg bg-body-tertiary ">
+                <div class="container-fluid">
+                    <div class="logo1">
+                        <img src="imagens/61f7cd9467553f0004c53e76.png" class="d-block w-100" alt="..."></div>
+                        <div class="logo">
+                        <h1>Travel Álbum </h1>
+                    </div>
+                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="barra-menu">
+                  <div class="collapse navbar-collapse"id="navbarNav">
+                    <ul class="navbar-nav">
+                      <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#">Home</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="index.html">Sobre</a>
+                      </li>
+                      <li class="nav-item">
+                        <a class="nav-link" href="index.html">Projeto</a>
+                      </li>
+
+                    </ul>
+                  </div>
+                </div>
+            </div>
+              </nav>
+
+
+
+   </header>
+    <div class="imagens1">
+   <div class="col-10 mx-auto">
+    <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item">
+          <img src="imagens/igreja pampulha.jpg" class="d-block w-100" alt="...">
+        </div>
+
+        <div class="carousel-item">
+         <img src="imagens/liberta.jpg" class="d-block w-100" alt="...">
+        </div>
+
+        <div class="carousel-item">
+          <img src="imagens/papa.jpg" class="d-block w-100" alt="...">
+        </div>
+      </div>
+
+      <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+      </button>
+
+      <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+      </button>
+    </div>
+</div>
+    </div>
+<br>
+<br>
+
+    <div class="mapa col-sm-10 col-md-10 col-lg-10 rounded mx-auto">
+        <h4 class="border-bottom border-5 pb-2">Mapa</h4>
+      </div>
+
+        <br>
+        <br>
+        <br>
+
+      <div id="map"></div>
+
+
+
+
+<div class="content container-fluid">
+
+    <div class="albumtext">
+        <div class="topic-division">
+        <h4>Lista de Álbuns</h4>
+        </div>
+
+        <br>
+        <br>
+    </div>
+
+<div id="cidades" class="row"></div>
+
+</div>
+
+<div class="creditos">
+    <div class="topic-division">
+    <h7>Créditos</h7>
+    </div>
+</div>
+
+ <footer>
+    <div class="container-footer">
+        <div class="row-footer">
+            <div class="footer-col">
+
+                <ul class="footer-list">
+                        <li>
+                            <h4>Contato</h4>
+                        </li>
+                        <li>
+                            <a href="#" class="footer-link">55(31)90000-0000</a>
+                        </li>
+
+                    </ul>
+
+            </div>
+            <div class="footer-col">
+
+                <ul class="footer-list">
+                    <li>
+                        <h4>Email</h4>
+                    </li>
+                    <li>
+                        <a href="#" class="footer-link">xxxxxxxx.contato@gmail.com</a>
+                    </li>
+
+                </ul>
+            </div>
+            <div class="footer-col">
+
+                <ul class="footer-list">
+                    <li>
+                        <h4>Opções</h4>
+                    </li>
+
+                    <li>
+                        <a href="#" class="footer-link">Inicio</a>
+                    </li>
+                    <li>
+                        <a href="#" class="footer-link">Cursos</a>
+                    </li>
+                    <li>
+                        <a href="#" class="footer-link">Sobre</a>
+                    </li>
+                    <li>
+                        <a href="#" class="footer-link">Orçamento</a>
+                    </li>
+
+                </ul>
+
+            </div>
+            <div class="footer-col">
+          <div class="autoria">
+           <h3>Autoria:</h3>
+          <p>Aluno:Henrique Gonçalves Sousa</p>
+          <p>Curso:Analise de Sitema</p>
+          <p>Turma:Manhã</p>
+
+
+              <p>Redes Sociais</p>
+                <div id="footer_social_media">
+                    <a href="#" class="footer_link" id="discord">
+                        <i class="bi bi-discord"></i>
+                    </a>
+                    <a href="#" class="footer_link" id="instagram">
+                        <i class="bi bi-instagram"></i>
+                    </a>
+                    <a href="#" class="footer_link" id="twitter">
+                        <i class="bi bi-twitter"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+
+
+
+            </div>
+        </div>
+    </div>
+    <div id="footer_copyrigth">
+        &#169
+        2023 all rigths reserverd
+    </div>
+</footer>
+
+          <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+          integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+          crossorigin="anonymous"></script>
+          <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+          integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+          crossorigin="anonymous"></script>
+          <script>
+          mapboxgl.accessToken = 'pk.eyJ1IjoibGVvbWVuZGVzMTIzIiwiYSI6ImNscG14aDl5MjBiZjkya3I0N2hldnM1Y3gifQ.sGtLiYr0o8UjRwpJGqd5Gw';
+          let cntr = ["-19.859436903783603", "-43.91853253009936"];
+
+          const maps = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/mapbox/streets-v12',
+            center: [-43.93862551205571,-19.919065376393224],
+            zoom: 3
+          });
+
+fetch(`https://jsonserver-1--rikutoshiki1505.repl.co/albuns`)
+  .then(response => response.json())
+  .then(data => {
+    data.forEach(album => {
+      const cidade = document.createElement('div')
+      cidade.className = 'card col-sm-10 col-md-3 col-lg-3 m-1 mx-auto mb-3'
+      cidade.id = `card${album.id}`
+
+      const cardLink = document.createElement('a')
+      cardLink.href = `almbumviagens.html?id=${album.id}`
+
+      const img = document.createElement('img')
+      img.src = album.url
+      img.className = "card-img-top w-60 p-2"
+
+      const descricao = document.createElement('div')
+      descricao.className = 'card-body mt-0 m-1 p-1 mb-2 text-center rounded'
+
+      const nomeCidade = document.createElement('h4')
+      nomeCidade.innerHTML = album.Titulo
+
+      const descricaoTexto = document.createElement('p')
+      descricaoTexto.className = 'card-text m-1 fs-5 text'
+      descricaoTexto.innerHTML = album.Descrição
+
+      descricao.appendChild(nomeCidade)
+      descricao.appendChild(descricaoTexto)
+
+      cardLink.appendChild(img)
+      cardLink.appendChild(descricao)
+
+      cidade.appendChild(cardLink)
+
+      document.querySelector('#cidades').appendChild(cidade)
+    })
+    const colorsArray = ["blue", "red", "green", "purple"]
+    data.map((album) => {
+      let popup = new mapboxgl.Popup({offset: 25})
+        .setHTML(`<h4><a href=AlbumPage.html?albumId=${album.id}  target="_blank">${album.Titulo}</a></h4><br>${album.Descrição}<br>`);
+      
+      const marker = new mapboxgl.Marker({color: colorsArray[Math.floor(Math.random() * (colorsArray.length - 1))]})
+        .setLngLat(album.localizacao)
+        .setPopup(popup)
+        .addTo(maps);
+        
+       
+    })
+    fetch('https://jsonserver-1--rikutoshiki1505.repl.co/destaques')
+      .then(response => response.json())
+      .then(destaques => {
+        destaques.map((destaque, index) => {
+          const album = data.filter(item => item.id === destaque.album)[0]
+
+          const CarrouselItem = document.createElement('div')
+          CarrouselItem.className = `carousel-item ${index == 0 ? "active" : ""}`
+
+          const ItemImage = document.createElement('img')
+          ItemImage.style.height = '500px'
+          ItemImage.className = "carousel-image d-block w-100"
+          ItemImage.src = album.url
+
+          const ItemInfo = document.createElement('div')
+          ItemInfo.className = 'carousel-caption d-none d-md-block'
+
+          const ItemTitle = document.createElement('h5')
+          ItemTitle.innerHTML = album.Titulo
+          const ItemText = document.createElement('p')
+          ItemText.innerHTML = album.Descrição
+
+          ItemInfo.appendChild(ItemTitle)
+          ItemInfo.appendChild(ItemText)
+
+          CarrouselItem.appendChild(ItemImage)
+          CarrouselItem.appendChild(ItemInfo)
+          
+          document.querySelector('.carousel-inner').appendChild(CarrouselItem)
+        })
+      })
+
+    
+
+    function processarGeo(local) {
+      let popup = new mapboxgl.Popup({offset: 25})
+        .setHTML(`<h4>Sua localização!</h4>`);
+      const marker = new mapboxgl.Marker({color: 'yellow'})
+        .setLngLat([local.coords.longitude, local.coords.latitude])
+        .setPopup(popup)
+        .addTo(maps);
+    }
+
+    navigator.geolocation.getCurrentPosition(processarGeo, () => {alert('Favor, permitir a localização na página!')})
+  })
+
+</script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+
+
+</body>
+
+
+
+
